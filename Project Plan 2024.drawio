@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T11:40:23.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2um0bBKfTM656mB9nQSZ" version="22.1.15" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-28T12:17:26.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NJAA1Z3UyOQPtpX173UC" version="22.1.15" type="github" pages="3">
   <diagram name="Objectives" id="3u5VsQzHF3F3Hw7q_3oI">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
             <mxRectangle width="230" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8BFnfz-Po4wNiQFufICq-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-7">
+        <mxCell id="8BFnfz-Po4wNiQFufICq-9" value="[Might add Mission, Vision, Goals and 5years from now]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-7">
           <mxGeometry x="230" width="440" height="40" as="geometry">
             <mxRectangle width="440" height="40" as="alternateBounds" />
           </mxGeometry>
