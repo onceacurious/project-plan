@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T14:17:02.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QmfqyIEzFZo2lvNHRCgF" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-28T11:40:23.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2um0bBKfTM656mB9nQSZ" version="22.1.15" type="github" pages="3">
   <diagram name="Objectives" id="3u5VsQzHF3F3Hw7q_3oI">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H9bVZPWOiT6HgbieIppK-1" value="&lt;b&gt;Should be related to Full-stack Development&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H9bVZPWOiT6HgbieIppK-1" value="&lt;b&gt;Should be related to Full-stack Development&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="20" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H9bVZPWOiT6HgbieIppK-7" value="&lt;h1&gt;corebuso.com&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sell website or desktop app using Python, JavaScript, and C#&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Doesn&#39;t matter what type of language since it&#39;s already a .exe file&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Use Xamarin for cross-platform desktop&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H9bVZPWOiT6HgbieIppK-7" value="&lt;h1&gt;corebuso.com&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sell website or desktop app using Python, JavaScript, and C#&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Doesn&#39;t matter what type of language since it&#39;s already a .exe file&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Use Xamarin for cross-platform desktop&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="410" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H9bVZPWOiT6HgbieIppK-8" value="&lt;h1&gt;francisdeoaurelio.com&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Portfolio website&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H9bVZPWOiT6HgbieIppK-8" value="&lt;h1&gt;francisdeoaurelio.com&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Portfolio website&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="290" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -105,6 +105,121 @@
         </mxCell>
         <mxCell id="FZHY5YGpcPqjupk54qjs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZHY5YGpcPqjupk54qjs-18" target="FZHY5YGpcPqjupk54qjs-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yMeGodYp9_F81Ojh0Cwp" name="Business Plan">
+    <mxGraphModel dx="797" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8BFnfz-Po4wNiQFufICq-6" value="Business Plan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="670" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="30" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-8" value="Company Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-7">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-7">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="70" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-12" value="Employees" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-11">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-11">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="110" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-16" value="Legal Structure" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-15">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-17" value="Sole proprietorship" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-15">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="150" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-20" value="Service Offered" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-19">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-21" value="Web or Desktop Applition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-19">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="190" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-23" value="Types of Customer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-22">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-24" value="Small to medium business owners" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-22">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="230" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-26" value="Some Market Analysis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-25">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-25">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-28" value="Service Offered" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-29" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-28">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-30" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-28">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-31" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-28">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8BFnfz-Po4wNiQFufICq-19" target="8BFnfz-Po4wNiQFufICq-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-35" value="&lt;p style=&quot;margin-bottom:0in;margin-top:0in;mso-margin-bottom-alt:&lt;br/&gt;8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Company Description&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Corebuso focuses on creating innovative and user-friendly web and desktop products that empower both businesses and individuals. We offer cutting-edge software solutions that help streamline processes, increase productivity, and improve user experiences.&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;At Corebuso, we leverage cutting-edge technology and industry best practices to build versatile and scalable apps that meet a variety of demands across many industries. Our skilled development and design teams collaborate seamlessly to create tailor-made solutions that meet the individual requirements of our clients.&lt;/p&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Our Offerings:&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Tailored Software Products:&lt;/p&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Our custom web and desktop applications are designed to meet certain corporate goals, guaranteeing smooth operation and integration.&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;User-focused design:&lt;/p&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Our emphasis on intuitive design and user experience ensures that programs are not only effective but also user-friendly and visually appealing.&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Cutting Edge Technologies:&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;By utilizing cutting-edge frameworks and technologies, we&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;develop software that is resilient, future-ready, and long-lasting.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Customer Service and Upkeep:&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Beyond development, we offer continuing support and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;maintenance to guarantee that our clients&#39; applications are efficient and up to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;date.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Why Choose Us?&lt;/p&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Liability and Confidence:&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;To&amp;nbsp;build long-lasting relationships with our clients,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;we place a high value on openness, dependability, and our dedication to&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;delivering great results.&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Assurance of Quality:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Extensive testing and quality assurance procedures ensure&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;that our apps meet the greatest levels of performance, security, and&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;dependability.&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Client-Centered Approach:&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Our collaborative approach incorporates customers at all&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;stages, ensuring that their vision is effortlessly integrated into the final&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;product.&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin-bottom:0in;margin-bottom:0in;margin-top:0in;&lt;br/&gt;mso-margin-bottom-alt:8.0pt;mso-margin-top-alt:0in;mso-add-space:auto;&lt;br/&gt;line-height:normal&quot; class=&quot;MsoNormal&quot;&gt;Continuous Improvement:&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Our commitment to perpetual innovation and enhancement&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;means that we adapt to the ever-changing technical environment to provide&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;unmatched solutions.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;Industries Served:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;We provide solutions to a wide range of industries, such as&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;finance, healthcare, education, e-commerce, entertainment, and more. Our&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dedication lies in providing innovative software solutions that promote&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;expansion and achievement in diverse industries.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="20" width="930" height="655" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8BFnfz-Po4wNiQFufICq-7" target="8BFnfz-Po4wNiQFufICq-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="150" />
+              <mxPoint x="1010" y="150" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
