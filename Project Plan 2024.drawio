@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T12:43:40.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="59TkwIKtD47GfqChpTmj" version="22.1.15" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-28T12:48:14.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VEKs7K96vAd8znthONPY" version="22.1.15" type="github" pages="3">
   <diagram name="Objectives" id="3u5VsQzHF3F3Hw7q_3oI">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8BFnfz-Po4wNiQFufICq-6" value="Business Plan" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="670" height="390" as="geometry" />
+          <mxGeometry x="30" y="100" width="670" height="430" as="geometry" />
         </mxCell>
         <mxCell id="8BFnfz-Po4wNiQFufICq-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
           <mxGeometry y="30" width="670" height="40" as="geometry" />
@@ -234,6 +234,19 @@
             <mxRectangle width="440" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-61" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-6">
+          <mxGeometry y="390" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-62" value="Promotional" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-61">
+          <mxGeometry width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BFnfz-Po4wNiQFufICq-63" value="Website SEO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-61">
+          <mxGeometry x="230" width="440" height="40" as="geometry">
+            <mxRectangle width="440" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8BFnfz-Po4wNiQFufICq-28" value="Service Offered" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="240" width="140" height="120" as="geometry" />
         </mxCell>
@@ -284,7 +297,7 @@
         <mxCell id="8BFnfz-Po4wNiQFufICq-52" value="Exact pricing and exact work to be done" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-51">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8BFnfz-Po4wNiQFufICq-53" value="Estimated timeline" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-51">
+        <mxCell id="8BFnfz-Po4wNiQFufICq-53" value="Estimated timeline (longer the better)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-51">
           <mxGeometry y="60" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8BFnfz-Po4wNiQFufICq-54" value="Extra services (hosting, SEO, etc)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8BFnfz-Po4wNiQFufICq-51">
